@@ -15,5 +15,5 @@ Design and implement a Catalog Management System using Spring Boot to manage pro
 
 1. **Clone Repository**:
    ```bash
-   git clone <repository-url>
-   cd catalog-management-system
+   git clone https://github.com/shivambhanu/catalog-management.git
+   cd catalog
